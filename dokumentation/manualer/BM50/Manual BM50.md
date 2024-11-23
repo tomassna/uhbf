@@ -136,6 +136,8 @@ I början rinner vörten genom pumpen och ut i den yttre kammaren. Så länge de
 
 När det börjar gå långsamt höjer man maltpipan allt eftersom man fyller med mer vatten. Den är för tung för att man ska hantera den bekvämt och det är dessutom ganska mycket varmt vatten som vi hanterar. Av den anledningen har vi ett spel monterat i taket som ska användas för att hissa upp maltpipan på ett säkert sätt.
 
+![Montering av spel för att lyfta maltpipa](img/lakning.png)
+
 Haka karbinhaken i lyftstaget enligt bilden nedan. Repet passerar en skotråtta som gör att det bara går en väg när man börjar spänna. Med bryggverket på en vagn är det lätt att köra undan vagnen när lakningen är klar och sedan sänka ner maltpipan på en spillbricka.
 
 Redan när båda elementen är täckta av vätska kan man slå på dem för att påbörja uppvärmning mot kok. Det är bara att gå på med full effekt på båda elementen.
