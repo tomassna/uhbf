@@ -46,7 +46,7 @@ På grund av att vi haft återkommande problem med de kontrollenheter som följe
 
 Kontrollenheten är uppbyggd i tre sektioner. 
 
-Längs till vänster finns en sektion för temperatur där det sitter en termometer överst och ett vred som styr en termostat. Denna används för att ställa högsta temperatur och den bryter strömmen till värmelementen när ställd temperatur nås. Det är en mekanisk termometer som styrs av en gasfylld cylinder som monterats innuti bryggverktes centrumrör. Det är en pålitlig konstruktion som mäter temperaturen där vörten trycks in i maltbädden men den är förhållandevis grov och markeringarna på vredet sitter ungefär 10 grader för lågt. Man behöver därför använda termometern för att hålla lite koll på vad den faktiska temperaturen är. Om man vrider på vredet hör man ett tydligt klick när den slår av och till. 
+Längs till vänster finns en sektion för temperatur där det sitter en termometer överst och ett vred som styr en termostat. Denna används för att ställa högsta temperatur och den bryter strömmen till värmelementen när ställd temperatur nås. Det är en mekanisk termostat som styrs av en gasfylld cylinder som monterats innuti bryggverktes centrumrör. Det är en pålitlig konstruktion men den är förhållandevis grov och markeringarna på vredet sitter ungefär 10 grader för lågt. Man behöver därför använda termometern för att hålla lite koll på vad den faktiska temperaturen är. Om man vrider på vredet hör man ett tydligt klick när den slår av och till. 
 
 På mittendelen av kontrollenheten finns dels ett reglage för att styra effekten och dels två röda brytare för att slå på eller av elementen. Enheten har två element, ett inre och ett yttre som sitter på var sin sida maltpipan vid bryggning. Med hjälp av prytarna kan elementen användas obeoroende av varandra. På detta vis kan man anpassa hur bryggverket värmer under de olika faserna av bryggningen.  
 
@@ -62,12 +62,11 @@ Förbereda bryggning
 
 När bryggverket står på plats är det dags att fylla på vatten. Det lättaste är att använda samma slangar som vi använder till kylning. Det sitter Gardenakopplingar på väggen och den som har två kopplingar går till kallvatten. 
 
-Konstruktionen som BM har gör att bryggverken är konstruerade för att använda en viss mängd malt, för BM-50 är det bäst att använda 10-12 kilo malt, vilket är vad som ryms i maltpipan. Det finns även en kortare maltpipa som används för bryggningar med 5-6 kg malt. På samma sätt behöver det användas tillräckligt med vätska för att den ska kunna pumpas runt under själva bryggningen. Det finns graderingar på centrumröret som markerar de tänkta mängderna vatten, men det beror givetvis även på hur mycket malt man använder. 
+Braumeisters bryggverk är konstruerade för att använda en viss mängd malt och vatten vid bryggning, för BM-50 är det bäst att använda 10-12 kilo malt, vilket är vad som ryms i maltpipan. Det finns även en kortare maltpipa som används för bryggningar med 5-6 kg malt. På samma sätt behöver det användas tillräckligt med vätska för att den ska kunna pumpas runt under själva bryggningen. Det finns graderingar på centrumröret som markerar de tänkta mängderna vatten, men det beror givetvis även på hur mycket malt man använder. 
 
 Denna kontrollenhet några praktiska fördelar i förhållande till originalets version. I och med att man kan slå av det yttre elementet under bryggningen så behöver man inte ha så mycket vätska att detta täcks. Man kan således brygga med mindre vätska i vörten vilket gör att man kan använda mer vatten vid lakning vilket höjer utbytet. Man slänger helt enkelt mindre socker om man tvättar maltbädden med mer vatten under lakningen.
 
-Vi rekommenderar därför att man vid 12 kg malt använder ca ?? liter vatten vilket är ca 2 cm under det tredje strecket uppifrån på mittaxeln.
-
+Vi rekommenderar därför att man vid 12 kg malt använder ca ?? liter vatten vilket är ca 2 cm under det tredje strecket uppifrån på mittaxeln. Oavsett är det alltid en bra idé att ha lite extra vatten värmt för den händelse att man upptäcker att man behöver mer. Det är alltid surt att behöva vänta på uppvärmning då.
 
 När du slagit i vatten är det dags att koppla in bryggverket. Den drar så pass mycket ström att vi försett den med kontakt och kabel som klarar 16 ampere kontinuerlig last. Den ska därför kopplas in på en av de blå 1-fas uttag som sitter på väggen till höger om diskbänken. Använd det vänstra eller mittersta eftersom det högra har en reglerbar effektbegränsning som inte ska användas för bryggverk.
 
