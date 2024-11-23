@@ -13,29 +13,32 @@ Om tidigare bryggare har följt instruktionerna så ska det finnas en lapp som b
 
 Den pump som cirkulerar vörten under bryggningen skall lämnas uppstäld på botten av bryggverket med sladden inkopplad enligt bild 1. Detta är för att det inte ska bli stående vatten med eventuella rester av tidigare brygd som möglar och förstör för nästa bryggare.
  
-![Om pumpen st\år så här vet nästa bryggare att det är rent och snyggt i pumphuset.](img/bild1.png)
+![Om pumpen lämnas så här vet nästa bryggare att det är rent och snyggt i pumphuset.](img/bm50.jpg)
 
 Innan man ställer bryggverket på plats ska pumpen monteras. Denna pump har ett vred som styr hur kraftigt den cirkulerar. Det är lagom att ha den på läge 4-5 för BM-50 bryggverket. Att ställa den högre ökar risken för att man sätter igen maltbädden under bryggningen. Lägre blir cirkulationen svagare vilket kan påverka utbytet enligt tillverkaren.
 
 Kontrollera att det finns en packning i kanten på pumphuset. Den är tunn, av svart gummi och ska inte ha några brott eller klämskador. Normalt sitter den kvar i spåret men det händer att den kommer loss och då är det bara att lägga i den så att den ligger på plats när man monterar pumpen.
 
-![Packningen sitter oftast kvar i pumphuset](img/packning.png)
+![Packningen sitter oftast kvar i pumphuset](img/packning.jpg)
 
 Pumpen monteras genom att hållas mot pumphuset och skruvas fast genom den löpande gäng-ring som sitter på pumpen. Den ska kunna skruvas ca 3 var utan motstånd och sedan bottna relativt distinkt. Det räcker med att dra åt med finger-kraft, att använda mer än så skadar bara packningen och gör inte att det blir mer tätt. 
 
-När pumpen sitter på plats är det dags att ställa bryggverket på plats. Maltpipan som ska monteras i bryggverket förvaras under bryggverket så lyft gärna lite försiktigt och rätt upp. Placera gärna bryggverket på en av de vagnar som finns i bryggeriet. Det underlättar många moment om man kan flytta runt bryggverket och höja upp det när man ska tappa ur.
+När pumpen sitter på plats är det dags att ställa bryggverket på plats. Maltpipan som ska monteras i bryggverket förvaras under bryggverket så lyft gärna lite försiktigt och rätt upp. Placera bryggverket på en av de vagnar som finns i bryggeriet. Det underlättar många moment om man kan flytta runt bryggverket och höja upp det när man ska tappa ur.
 
+![Redo för bryggvatten](img/vagn.jpg)
+
+Dags att fylla på vatten, men först lite mer om kontrollenheten.
 
 Kontrollenheten
 ---------------
 
 På grund av att vi haft återkommande problem med de kontrollenheter som följer med bryggverken har vi valt att istället sätta dit en helt manuell styrning. (Ja, den är också hembyggd)
 
-![Kontrollenheten](img/kontrollenhet.png)
+![Kontrollenheten](img/kontrollenhet.jpg)
 
 Kontrollenheten är uppbyggd i tre sektioner. 
 
-Längs till vänster finns en sektion för temperatur där det sitter en termometer överst och ett vred som styr en termostat. Denna används för att ställa högsta temperatur och den bryter strömmen till värmelementen när ställd temperatur nås. Det är en mekanisk termometer som styrs av en gasfylld cylinder som monterats innuti bryggverktes centrumrör. Det är en pålitlig konstruktion som mäter temperaturen där vörten trycks in i maltbädden men den är förhållandevis grov. Man behöver därför använda termometern för att hålla lite koll på vad den faktiska temperaturen är. Om man vrider på vredet hör man ett tydligt klick när den slår av och till. 
+Längs till vänster finns en sektion för temperatur där det sitter en termometer överst och ett vred som styr en termostat. Denna används för att ställa högsta temperatur och den bryter strömmen till värmelementen när ställd temperatur nås. Det är en mekanisk termometer som styrs av en gasfylld cylinder som monterats innuti bryggverktes centrumrör. Det är en pålitlig konstruktion som mäter temperaturen där vörten trycks in i maltbädden men den är förhållandevis grov och markeringarna på vredet sitter ungefär 10 grader för lågt. Man behöver därför använda termometern för att hålla lite koll på vad den faktiska temperaturen är. Om man vrider på vredet hör man ett tydligt klick när den slår av och till. 
 
 På mittendelen av kontrollenheten finns dels ett reglage för att styra effekten och dels två röda brytare för att slå på eller av värme-elementen. Enheten har två element, ett inre och ett yttre som sitter på var sin sida maltpipan vid bryggning. Med hjälp av prytarna kan elementen användas obeoroende av varandra. På detta vis kan man anpassa hur bryggverket värmer under de olika faserna av bryggningen.  
 
@@ -134,13 +137,21 @@ Vid lakning sköljer man maltbädden för att få ur allt socker genom att slå 
 
 I början rinner vörten genom pumpen och ut i den yttre kammaren. Så länge det finns en höjdskillnad där kan man fylla på med vatten i den takt det rinner undan så att det alltid är någon cm vätska ovanpå silplåten. 
 
-När det börjar gå långsamt höjer man maltpipan allt eftersom man fyller med mer vatten. Den är för tung för att man ska hantera den bekvämt och det är dessutom ganska mycket varmt vatten som vi hanterar. Av den anledningen har vi ett spel monterat i taket som ska användas för att hissa upp maltpipan på ett säkert sätt.
+När det börjar gå långsamt höjer man maltpipan allt eftersom man fyller med mer vatten. Den är för tung för att man ska hantera den bekvämt och det är dessutom ganska mycket varmt vatten som vi hanterar. Av den anledningen har vi ett spel monterat i taket som ska användas för att hissa upp maltpipan på ett säkert sätt. Det monteras genom att det block som har en karbinhake kopplas till lyftstaget som sedan hakas i maltpipan enligt bilden nedan.
 
 ![Montering av spel för att lyfta maltpipa](img/lakning.png)
 
-Haka karbinhaken i lyftstaget enligt bilden nedan. Repet passerar en skotråtta som gör att det bara går en väg när man börjar spänna. Med bryggverket på en vagn är det lätt att köra undan vagnen när lakningen är klar och sedan sänka ner maltpipan på en spillbricka.
+Haka karbinhaken i lyftstaget enligt bilden. Det kan vara lite trixigt att få kärlet precis under kroken så att det lyfts rakt upp och det är här kärran är praktisk eftersom den gör det lätt att flytta runt allt. 
+
+Repet passerar en skotråtta som stoppar repet från att åka tillbaka när man börjar spänna. Det minimerar risken att man tappar tillbaka maltpipan ner i den heta vörten vilket är en av de mer riskfyllda incidenter som hänt i vår lokal. Detta block är lindat 4 gånger vilket innebär att du får 4 gångers utväxling på kraften. Det är därmed lätt att lyfta trots att pipan är tung.
+
+Med bryggverket på en vagn är det även lätt att köra undan vagnen när lakningen är klar och sedan sänka ner maltpipan på en spillbricka. Det är precis så att vagnen går fritt när blocken är i sitt högsta läge.
+
+![När lakning är klar och maltpipan hissad kan man enkelt rulla undan bryggverket.](img/fardiglakat.jpg)
 
 Redan när båda elementen är täckta av vätska kan man slå på dem för att påbörja uppvärmning mot kok. Det är bara att gå på med full effekt på båda elementen.
+
+
 
 Kok
 ----
@@ -152,7 +163,7 @@ Humlekorg
 Kylning
 -------
 
-Inkoppling
+Inkoppling av kyla i manteln samt kylspiral
 
 Whirlpool
 
