@@ -1,19 +1,27 @@
 Manual BM50
 ===========
 
+Detta är instruktioner som är tänkta att förklara hur man använder bryggverket Braumeister 50 (BM-50). För att den ska vara komplett och ge all information som behövs för alla så blir den med nödvändighet ganska lång.
 
+> **Viktigt:**  
+> Just med anledning av att hela manualen blir förhållandevis lång så finns det en särskild formatering för stycken som innehåller viktig information. Läs gärna hela manualen, som också innehåller bra tips, men säkerställ verkligen att du läst och förstått alla de avsnitten innan du använder bryggverket.
 
+På slutet finns också en sammanfattning av processen för att det ska vara lättare att få en överblick på allt.
+
+---
+
+När du kommer till brygglokalen finner du BM-50 bryggverket ställt upp och ner på en rullvagn under skrivbordet. När man är klar med bryggningen lämnar man den på samma sätt, och berättar vem som använt och rengjort bryggverket efter sig. Om det är så att det varit några problem eller annat som är viktigt att berätta för nästa så ska detta givetvis antecknas även det.
+
+![Om pumpen lämnas så här vet nästa bryggare att det är rent och snyggt i pumphuset.](img/bm50.jpg)
 
 Montering av pump
 -----------------
 
-När du kommer till brygglokalen finner du BM-50 bryggverket ställt upp och ner på en rullvagn under skrivbordet. 
-
 Om tidigare bryggare har följt instruktionerna så ska det finnas en lapp som berättar vem som använt bryggverket senast och eventuellt någon anteckning om det varit något som noterats vid dennes bryggning. Skänk även en tanke av tacksamhet för att det är så noggrannt diskat och prydligt uppställt.
 
-Den pump som cirkulerar vörten under bryggningen skall lämnas uppstäld på botten av bryggverket med sladden inkopplad enligt bild 1. Detta är för att det inte ska bli stående vatten med eventuella rester av tidigare brygd som möglar och förstör för nästa bryggare.
+Den pump som cirkulerar vörten under bryggningen skall lämnas uppställd på botten av bryggverket med sladden inkopplad enligt bild 1. Detta är för att det inte ska bli stående vatten med eventuella rester av tidigare brygd som möglar och förstör för nästa bryggare.
  
-![Om pumpen lämnas så här vet nästa bryggare att det är rent och snyggt i pumphuset.](img/bm50.jpg)
+![Utgångsläge med pump och kranar lämnade öppna](img/pump.jpg)
 
 Innan man ställer bryggverket på plats ska pumpen monteras. Denna pump har ett vred som styr hur kraftigt den cirkulerar. Det är lagom att ha den på läge 4-5 för BM-50 bryggverket. Att ställa den högre ökar risken för att man sätter igen maltbädden under bryggningen. Lägre blir cirkulationen svagare vilket kan påverka utbytet enligt tillverkaren.
 
@@ -40,11 +48,11 @@ Kontrollenheten är uppbyggd i tre sektioner.
 
 Längs till vänster finns en sektion för temperatur där det sitter en termometer överst och ett vred som styr en termostat. Denna används för att ställa högsta temperatur och den bryter strömmen till värmelementen när ställd temperatur nås. Det är en mekanisk termometer som styrs av en gasfylld cylinder som monterats innuti bryggverktes centrumrör. Det är en pålitlig konstruktion som mäter temperaturen där vörten trycks in i maltbädden men den är förhållandevis grov och markeringarna på vredet sitter ungefär 10 grader för lågt. Man behöver därför använda termometern för att hålla lite koll på vad den faktiska temperaturen är. Om man vrider på vredet hör man ett tydligt klick när den slår av och till. 
 
-På mittendelen av kontrollenheten finns dels ett reglage för att styra effekten och dels två röda brytare för att slå på eller av värme-elementen. Enheten har två element, ett inre och ett yttre som sitter på var sin sida maltpipan vid bryggning. Med hjälp av prytarna kan elementen användas obeoroende av varandra. På detta vis kan man anpassa hur bryggverket värmer under de olika faserna av bryggningen.  
+På mittendelen av kontrollenheten finns dels ett reglage för att styra effekten och dels två röda brytare för att slå på eller av elementen. Enheten har två element, ett inre och ett yttre som sitter på var sin sida maltpipan vid bryggning. Med hjälp av prytarna kan elementen användas obeoroende av varandra. På detta vis kan man anpassa hur bryggverket värmer under de olika faserna av bryggningen.  
 
 > **VIKTIGT:**   
-> En av de viktigaste sakerna att tänka på när man använder bryggverken är att säkerställa att värmeelementen ***ALDRIG*** får köras torra.
-> Värme-elementen är konstruerade för att vatten ska leda bort värme när de används. Om de körs torra riskerar de att bli så varma att värmetråden bränns av och därtill så kommer eventuell vört som fanns på dem att brännas fast, vilket är jättejobbigt att diska rent. Till skillnad från originalenheten får man ingen motfråga när man startar utan man måste själv ta ansvar för att de alltid står på 0 när det inte finns vatten eller vört i bryggverket. 
+> En av de viktigaste sakerna att tänka på när man använder bryggverken är att säkerställa att värmeelementen ***ALDRIG*** körs torra.
+> Elementen är konstruerade för att vatten ska leda bort värme när de används. Om de körs torra riskerar de att bli så varma att värmetråden bränns av och därtill så kommer eventuell vört som fanns på dem att brännas fast, vilket är jättejobbigt att diska rent. Till skillnad från originalenheten får man ingen motfråga när man startar utan man måste själv ta ansvar för att de alltid står på 0 när det inte finns vatten eller vört i bryggverket. 
 
 Längst till höger finns en (blå) brytare som styr cirkulationspumpen. Till skillnad från originalets styrenhet finns här ingen automatisk paus utan man får själv komma ihåg att stanna den då och då under bryggningen om man vill venitlera maltbädden. Mer om det under avsnittet om bryggning. 
 
@@ -58,9 +66,12 @@ Konstruktionen som BM har gör att bryggverken är konstruerade för att använd
 
 Denna kontrollenhet några praktiska fördelar i förhållande till originalets version. I och med att man kan slå av det yttre elementet under bryggningen så behöver man inte ha så mycket vätska att detta täcks. Man kan således brygga med mindre vätska i vörten vilket gör att man kan använda mer vatten vid lakning vilket höjer utbytet. Man slänger helt enkelt mindre socker om man tvättar maltbädden med mer vatten under lakningen.
 
-Vi rekommenderar därför att man vid 12 kg malt använder ca XX liter vatten vilket är ca N cm under det tredje strecket, eller y cm mätt från toppen av pinnen.
+Vi rekommenderar därför att man vid 12 kg malt använder ca ?? liter vatten vilket är ca 2 cm under det tredje strecket uppifrån på mittaxeln.
 
-När du slagit i vatten ställer du termostaten ungefär på den temperatur du vill ha vid starten på bryggningen. Den är som sagt inte så precis så man behöver kontrollera vad det blir innan man går till bryggning. När man värmer bryggvattnet är det en bra ide att cirkulera vätskan med pumpen eftersom det gör värmningen mer effektiv.
+
+När du slagit i vatten är det dags att koppla in bryggverket. Den drar så pass mycket ström att vi försett den med kontakt och kabel som klarar 16 ampere kontinuerlig last. Den ska därför kopplas in på en av de blå 1-fas uttag som sitter på väggen till höger om diskbänken. Använd det vänstra eller mittersta eftersom det högra har en reglerbar effektbegränsning som inte ska användas för bryggverk.
+
+Sedan ställer du termostaten ungefär på den temperatur du vill ha för inmäskning. Termostaten är mekanisk och reglerar hur högt verket värmer vattnet. Det blir den övre gränsen där elementen kopplas ifrån helt. Den är särskilt exakt och skalan är  precis så man behöver kontrollera vad det blir innan man går till bryggning. När man värmer bryggvattnet är det en bra ide att cirkulera vätskan med pumpen eftersom det gör värmningen mer effektiv.
 
 En annan fördel med den manuella styrningen är att man inte har den märkliga begränsning som finns i originalehentens program kring temperatursteg. Man kan därmed ställa temperaturen några grader högre för att kompensera för det temperaturfall som den kalla malten orsakar när man mäskar in. Hur många grader som tappas beror på mängden malt och givetvis på vilken temperatur vi har på vinden vid tillfället. Det är lämpligt att räkna på ca t grader vintertid och t-4 grader sommartid vid 12 kg malt.
 
@@ -111,7 +122,7 @@ Det är lite trixigt men man lär sig ganska snart. Om man tycker att detta mome
 
 När all malt är ihälld och omrörd sätter man på den övre silen. Silduken ska läggas först så att den är närmast malten. Sedan är det den övre silplåten och till sist topstaget och vingmuttern som håller allt nere.
 
-> **Vikitigt:**  
+> **Viktigt:**  
 > Det behövs en liten distans mellan toppen av pipan och den övre silplåten. Det uppnår man om man vänder den lilla rörpipan uppåt. Alternativt kan man använda distanser som vi skurit till av kopparrör. Utan den distansen kommer det med stor sannolikhet tryckas malt genom springan som uppstår mellan maltrör och silplåt.
 
 Med allt på plats är det dags att starta pumpen. Om allt är rätt så ska det långsamt svämma över kanten och pumpas runt. På utsidan ska det finnas någon centimeter vört som cirkulerar runt. Om det är för lite vätska är det bara att fylla på med lite mer vatten. Är det mer vätska så är det inte någon katastrof men det minskar mängden vatten som du sedan kommer att kunna laka med.
@@ -139,7 +150,7 @@ I början rinner vörten genom pumpen och ut i den yttre kammaren. Så länge de
 
 När det börjar gå långsamt höjer man maltpipan allt eftersom man fyller med mer vatten. Den är för tung för att man ska hantera den bekvämt och det är dessutom ganska mycket varmt vatten som vi hanterar. Av den anledningen har vi ett spel monterat i taket som ska användas för att hissa upp maltpipan på ett säkert sätt. Det monteras genom att det block som har en karbinhake kopplas till lyftstaget som sedan hakas i maltpipan enligt bilden nedan.
 
-![Montering av spel för att lyfta maltpipa](img/lakning.png)
+![Montering av spel för att lyfta maltpipa](img/lakning.jpg)
 
 Haka karbinhaken i lyftstaget enligt bilden. Det kan vara lite trixigt att få kärlet precis under kroken så att det lyfts rakt upp och det är här kärran är praktisk eftersom den gör det lätt att flytta runt allt. 
 
