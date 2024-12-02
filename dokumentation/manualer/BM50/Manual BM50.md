@@ -6,7 +6,7 @@ Detta är instruktioner som är tänkta att förklara hur man använder bryggver
 > **Viktigt:**  
 > Just med anledning av att hela manualen blir förhållandevis lång så finns det en särskild formatering för stycken som innehåller viktig information. Läs gärna hela manualen, som också innehåller bra tips, men säkerställ verkligen att du läst och förstått alla de avsnitten innan du använder bryggverket.
 
-På slutet finns också en sammanfattning av processen för att det ska vara lättare att få en överblick på allt.
+I ett separat [dokument finns också en sammanfattning](Instruktion%20BM50.md) av processen som man kan använda mer som en checklista, eller ett kör-schema.
 
 ---
 
