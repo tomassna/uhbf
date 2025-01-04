@@ -159,42 +159,76 @@ Med bryggverket på en vagn är det även lätt att köra undan vagnen när lakn
 
 ![När lakning är klar och maltpipan hissad kan man enkelt rulla undan bryggverket.](img/fardiglakat.jpg)
 
-Redan när båda elementen är täckta av vätska kan man slå på dem för att påbörja uppvärmning mot kok. Det är bara att gå på med full effekt på båda elementen.
-
-
+När båda elementen är säkert täckta av vätska kan man slå på dem för att påbörja uppvärmning mot kok. Det är bara att gå på med full effekt på båda elementen.
 
 Kok
 ----
 
-Hotbreak och värmereglering.
+Vad gäller kokning är det inte mycket mer att säga än att man kan använda vredet för att reglera effekten vid kok. Det fungerar precis som förut men med den skillnaden att det inte finns någon automatik som minskar effekten vid kokning. Man behöver därför vara lite försiktig vid hot-break och det kan vara ide att ha en halv liter kallt vatten (eller vört) att kasta i om det håller på att koka över.
 
-Humlekorg
+Isolerjackan gör att det blir lite bättre kok än tidigare men jag är ärligt talat lite förvånad över att det inte blir bättre tryck i koket än det blivit när jag har bryggt. Man kan givetvis komplettera med en av doppvärmarna, särskilt när man värmer upp till kok, men använd då den effektreglerade kretsen så att du snabbt kan stänga av den och lämna inte grytan under processen. Med den igång kommer du att koka ut en fjärdedel av din öl och ha ett ganska otrevligt städjobb framför dig om du missar uppkoket.
+
+Det är kanske uppenbart men man måste även använda en egen klocka för att hålla ordning på koktiden och de humlegivor man ska skicka i. 
 
 Kylning
 -------
 
-Inkoppling av kyla i manteln samt kylspiral
+När koket är klart är det rekommenderat att man använder elementens egna brytare för att slå av värmen men behåller strömmen på för att kunna avläsa temperatur samt för att kunna köra pumpen. Man kan kyla både genom kylspiral och manteln samtidigt för att få bättre effekt. 
 
-Whirlpool
+> Tips:\
+> Jag brukar köra dem parallellt i början för att minska risken för DMS och för att stoppa humlens förbittring.  
+> När jag är nere på ungefär 60 grader kopplar jag om till att köra kylarna i serie eftersom jag inbillar mig att jag sparar vatten på det viset. Jag brukar ändå vilja ha en hop-stand där på 20 minuter för aromhumlens skull.
+> 
+> De första 20 literna av kylvatten tar jag vara på i en kastrull för att använda som diskvatten. Nästa tretti eller så tar jag i en annan kastrull och använder som sköljvatten.
+
+Oavsett vilken kylutrustning du använder är det viktigt att köra pumpen när man kyler. Väntskans rörelse över de kalla ytorna bidrar till värmeväxlingen på samma sätt som vind kyler när det är kallt. 
+
+Det är inte nödvändigt att avlägsna isoleringsmanteln vid kylning av vörten. Det kan tyckas kontraintuitivt men i och med att vi har aktiv kylning av manteln är den kylning som värmestrålning mot rummet ger förhållandevis liten. Det är större risk att vi förstör isoleringen om den ska plockas av och på hela tiden.
+
+När du kommit ner i temperatur tar du ur eventuell kylspiral och stänger av pumpen. Det är bra att låta vörten stå en stund för att sedimentera kokta proteiner och eventuell lös humle.
 
 Avtappning
 ----------
 
-Syresättningsspridare
+Avtappning fungerar som tidigare genom den främre ventilen. Genom att luta kärlet kan du avgöra hur mycket du ska ta med innan det blir för mycket bös i vörten.
 
 Rengöring
 --------
 
+Detta är ett ämne vars betydelse ofta underskattas av den som bryggde senast före dig. För att minska risken för det är det viktigt att alla verkligen gör sitt bästa för att verkligen göra rent utrustningen. Förvaringen och hanteringen av pumpen är medvetet utformade för att stävja problem vi haft med utrustningen tidigare och därför är det viktigt att alla följer rutinen.
+
+När vi brygger öl kokar vi vört, som innehåller stärkelse och socker under ganska lång tid. Dessa karamelliseras och tenderar att bränna fast på ytor i utrustningen, särskilt de heta. De diskmedel vi har innehåller enzymer som vid rätt temperatur bryter ner och löser upp dessa ämnen så att de blir lättare att diska. Det är därför viktigt att man använder medel ur den burk med PBW eller EnzyBrew som finns på hyllan.
+
+1: Töm ur de rester efter koket som du lämnat när du tappat över till jäshink. Passa på att spola och torka av det som sitter löst och som direkt lossnar av en diskborste. Spola gärna genom pumpen också eftersom det finns kvar bös där.
+
+2: När kärlet är grovt rensat på rester av vört och protafloc-klumpar fyller man upp med det diskvatten som man sparat undan från kylningen och häller i *1-2* skopor PBW. Starta sedan pumpen och låt det cirkulera tills det löst upp sig ordentligt.
+
+3: Medlet verkar som bäst mellan 50 och 60 grader. Om elementen är täckta av vätska kan man givetvis använda dem för att reglera men medlet är verksamt även vid lägre temperaturer. Låt det cirkulera i 10 minuter. Du kan stoppa med silplåtarna och filtren från maltpipan när det cirkulerar för att låta medlet verka på dem. Vänd nedersta "upp och ner" bara.
+
+4: Med gummihandskar för att skydda både mot värmen och det ganska starka medlet, använd nu en scotch-brite eller liknande skursvamp för att rengöra alla ytor och gnugga noggrant på de hårt ansatta ytorna. Man måste skrubba elementen genom att dra fram och tillbaka över hela deras längd med en skursvamp. Detta moment är lite trixigt, men när man väl inser hur mycket renare det blir så kan man också få en märklig tillfredsställelse av att göra något ordentligt.
+
+5: Jag avslutar med att ställa ner maltpipan och diska av den med bryggverket som "ho". Den har inte varit med i kok och är därför inte lika utsatt, men den ska givetvis diskas den också.
+
+6: När alla delar är diskade töms diskvattnet ur. Skölj ett par gånger med vatten som också ska vara varmt, men inte nödvändigtvis lika varmt. Sparat kylvatten är bra här. 
+
+7: Placera maltpipa och bryggkärl på vagnen. Skruva upp pumpen och kontrollera så att det inte sitter rester i impellern. I så fall kan den enkelt plockas ur och diskas i en liten skål. (den sitter bara med magnetism så det är bara att dra loss rakt ut)
+
+8: Häng upp alla delar på sin plats och skriv en notering på en lapp så att nästa vet vem det är som varit duktig och rengjort allt. Om något krånglat med utrustningen ska det givetvis kommenteras och meddelas till styrelsen.
+
+9: Nu är det bara att pitcha jästen och låta naturen göra underverk.
 
 Tips och tricks
 ---------------
 
 
+
 Felsökning
 ----------
 
-Jag verkar inte få någon riktig effekt när jag ska värma/koka:  
-Man kan enkelt kontrollera den effekt som går till elementen genom att se om dioderna i strömbrytarna lyser tydligt. Om inte är det något som är knasigt?
+**Jag verkar inte få någon riktig effekt när jag ska värma/koka:**  
+Man kan enkelt kontrollera den effekt som går till elementen genom att se om dioderna i strömbrytarna lyser tydligt. Om inte är det något som är knasigt, så de är ganska bra indikatorer.\
 Är båda elementen på och är effektregleraren på max?  
 Har en säkring gått?
 Har någon av huvudsäkringarna ute i skåpet gått?
+
+
