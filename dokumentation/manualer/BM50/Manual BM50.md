@@ -215,7 +215,7 @@ När vi brygger öl kokar vi vört, som innehåller stärkelse och socker under 
 
 8: Häng upp alla delar på sin plats och skriv en notering på en lapp så att nästa vet vem det är som varit duktig och rengjort allt. Om något krånglat med utrustningen ska det givetvis kommenteras och meddelas till styrelsen.
 
-9: Nu är det bara att pitcha jästen och låta naturen göra underverk.
+9: Nu är det bara att pitcha jäst och låta naturen göra underverk.
 
 Tips och tricks
 ---------------
@@ -232,3 +232,10 @@ Har en säkring gått?
 Har någon av huvudsäkringarna ute i skåpet gått?
 
 
+**Pumpen verkar inte fungera som den ska:**
+Börja med att kontrollera så att pumpen får ström. Precis som med värmeelementen sitter det en diod i strömbrytaren som lyser när brytaren är stängd.
+Därutöver har denna pump en inbyggd reglering för att man ska kunna köra den olika starkt. Det styrs av ett litet vred på sidan av pumpen och som kan vara svårt att komma åt när den är monterad. Vrid det fram och tillbaka för att se om det gör någon skillnad. Man ska även kunna känna att pumpen vibrerar en aning när den körs.
+
+Om det här sker under själva bryggningen är det med största sannolikhet så att du har drabbats av en igensatt maltbädd. Har man krossat malten för fint kommer de fina partiklarna att bilda en kompakt kaka genom vilket inget vatten kan passera. Stäng av pumpen, ta bort filtret på toppen och testa att röra om i maltbädden. Om det fungerar att pumpa nu så har du svaret. Det kan fungera att röra i havre eller ris skal men sannolikt får du avstå från att cirkulera denna vört under bryggningen.
+
+Om det sker efter bryggning finns risk att pumpen blivit igensatt mekaniskt av partiklar som kommit med. Detta är en av utmaningarna med Spiedels konstruktion med en fast monterad pump under kärlet. Det är lätt att råka stänka över malt och protaflock skapar klumpar som kan komma in. Det är dessutom bökigt att åtgärda eftersom man måste tömma kärlet för att kunna montera isär pumpen. Om det sker vid uppkok eller kylning är tipset att röra manuellt med mäskspaden istället.
