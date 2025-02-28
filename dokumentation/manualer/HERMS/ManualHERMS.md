@@ -1,9 +1,12 @@
 HEMRS-bryggsystem
 =================
 
-HERMS är ett akronym som betyder HeatExchangeReciculationMashSystem och betyder i korthet att man pumpar vörten genom en värmeväxlare för att hålla konsekvent temperatur genom mäskningen. Det är snarlik ett RIMS system men har den skillnaden att det inte använder elektriska element direkt mot vörten.
+HERMS är ett akronym som betyder HeatExchangeRecirculationMashSystem och betyder i korthet att man pumpar vörten genom en värmeväxlare för att hålla konsekvent temperatur genom mäskningen. Det är snarlik ett RIMS system men har den skillnaden att det inte använder elektriska element direkt mot vörten.
 
-En fördel med systemet är således att man inte riskerar att bränna eller karamellisera vört under själva bryggningen. En nackdel är att man givetvis får en större tröghet i den massa som lakvattnet utgör. Vid stegmäskning kan det därför vara bra att ha lite kokande vatten vid sidan av som man använder för att snabbt höja temperaturen vid en viss tidpunkt. Mer om det senare under tips.
+En fördel med systemet är således att man inte riskerar att bränna eller karamellisera vört under själva bryggningen. En nackdel är att man givetvis får en större tröghet i den massa som lakvattnet utgör. 
+
+> Tips:\
+> Om du tänker göra en stegmäskning är det en bra idé att lämna lite volym tom i lakvattenvärmaren och koka upp det på plattan vid sidan av. Genom att slå på några liter kokande vatten kan du göra en momentan höjning av temperaturen i kärlet när det är dags. Värmeväxlaren är så effektiv att det omedelbart kommer att höja den cirkulerande vörten till den önskade temperaturen. 
 
 Systemet
 --------
@@ -11,20 +14,26 @@ Systemet bygger på en så kallad trekärls-metod där man har separata kärl f�
 
 Systemet är utformat för att använda de flyttbara stålbänkar vi redan har och som induktionsplattan respektive lakvattenkärlet normalt står på. Mellan dessa placeras platt med en pump och ventiler som ör utformad för att hålla ihop bänkarna. Platta och tillhörande slangar förvaras på den vänstra väggen (mot källartrappan).
 
-Bild 1: förvaring
-Bild 2: Monterat system
+Bild 1: förvaring och slangar
+
 
 Förberedelse
 ------------
-Systemet monteras genom att man ställer bänkarna bredvid varandra och placerar plattan med pumpen mellan dem så att den kopplar ihop allt till en enhet. Gör detta innan du ställer något på bänkarna så att de går lättare att flytta runt.
+Systemet monteras genom att man ställer bänkarna bredvid varandra och placerar plattan med pumpen mellan dem så att den kopplar ihop allt till en enhet. Urtagen i den vita plattan är anpassade så att de kan placeras mellan och därigenom låsa fast platta och bänk så att den inte ramlar av oavsiktligt. 
 
-Alla anslutningar är av typen "Camlock" som är ett självstängande system med två armar som låser kopplingen när de är nerfällda. Det kan ta lite övning men är en mycket pålitlig typ av koppling. Fäll ut armarna, trä över honan (slangens ände) och fäll ner armarna så låses kopplingen i .
+Man viker in plattan diagonalt på båda sidor och enklast gör man det genom att ställa bänkarna bredvid varandra lite snett invinklade så att man kan placera baksidan mot båda bänkarnas stag medan man håller upp den främre sidan lite. Sedan skjuter man in framsidan på båda bänkarna och lägger ner plattan så att det främre benet på respektive bänk hamnar i urtaget. Det kan vara lite trixigt och det underlättar givetvis om bänkarna är helt tomma från annan utrustning.
 
-Slangarna som kopplas går:
-1: Lakvatten ut -> Pump in, vänster sida på trevägsventil
-2: Bryggkärl ut -> Pump in, höger sida på trevägsventil
-3: Pump ut -> Värmeväxlarens nedre anslutning
-4: Värmeväxlarens övre anslutning -> Bryggkärl in
+När bänken är monterad kopplar man in strömmen och kontrollerar då att strömbrytaren på plattan, som styr pumpen är avslagen. Instruktionerna nedan bygger på att lakvattenvärmaren ställs till vänster och bryggkärlet till höger, som även illustrationen på plattan indikerar.
+
+Alla anslutningar är av typen "Camlock" som är ett självstängande system med två armar som låser kopplingen när de är nerfällda. Det kan ta lite övning men är en mycket pålitlig typ av koppling. Fäll ut armarna, trä över honan (slangens ände) och fäll ner armarna så låses kopplingen mot packningen som sitter i botten på honan.
+
+Slangarna som bilden visar:
+ 1. Lakvatten ut -> Pump in, vänster sida på trevägsventil
+ 2. Bryggkärl ut -> Pump in, höger sida på trevägsventil
+ 3. Pump ut -> Värmeväxlarens nedre anslutning
+ 4. Värmeväxlarens övre anslutning -> Bryggkärl in
+
+![När lakning är klar och maltpipan hissad kan man enkelt rulla undan bryggverket.](img/montering_slangar.png)
 
 Senare ska vi även sätta en slang som fördelar den inkommande vätskan jämnt över maltbädden, men det kan vi först göra efter att vi mäskat in och cirkulerat en stund.
 
