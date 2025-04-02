@@ -1,12 +1,14 @@
 HEMRS-bryggsystem
 =================
 
-HERMS är ett akronym som betyder HeatExchangeRecirculationMashSystem och betyder i korthet att man pumpar vörten genom en värmeväxlare för att hålla konsekvent temperatur genom mäskningen. Det är snarlik ett RIMS system men har den skillnaden att det inte använder elektriska element direkt mot vörten.
+UHBF har två "passiva" mäskkärl från SS Brewtech som kan användas för att brygga med 3 kärls-metod och så kallad HERMS-mäskning. Systemet består av en platta med en pump, lite ventiler och 4 anpassade slangar som finns upphängda på väggen mot källartrappan. Dessa används tillsammans med våra bänkar, lakvattenvärmaren samt något av kärlen från SS Brewtech.
 
-En fördel med systemet är således att man inte riskerar att bränna eller karamellisera vört under själva bryggningen. En nackdel är att man givetvis får en större tröghet i den massa som lakvattnet utgör. 
+HERMS är ett akronym som betyder [Heat Exchange Recirculation Mash System](https://beerandbrewing.com/rims-herms/) och betyder i korthet att man pumpar vörten genom en värmeväxlare för att hålla konsekvent temperatur genom mäskningen. Det är snarlik ett RIMS system men har den skillnaden att det inte använder elektriska element direkt mot vörten.
+
+En fördel med systemet är således att man inte riskerar att karamellisera eller rent av bränna vört under själva bryggningen. En nackdel i förhållande till RIMS är att man får en större tröghet i den massa som lakvattnet utgör men man kan relativt lätt kompensera för det. Båda metoderna kräver mer uppmärksamhet men ger samtidigt större kontroll än när man använder programmerade bryggverk. 
 
 > Tips:\
-> Om du tänker göra en stegmäskning är det en bra idé att lämna lite volym tom i lakvattenvärmaren och koka upp det på plattan vid sidan av. Genom att slå på några liter kokande vatten kan du göra en momentan höjning av temperaturen i kärlet när det är dags. Värmeväxlaren är så effektiv att det omedelbart kommer att höja den cirkulerande vörten till den önskade temperaturen. 
+> Om du tänker göra en stegmäskning är det en bra idé att lämna lite volym tom i lakvattenvärmaren och koka upp det på plattan vid sidan av. Genom att slå på några liter kokande vatten kan du göra en momentan höjning av temperaturen i kärlet när det är dags. Värmeväxlaren är så effektiv att det omedelbart kommer att höja den cirkulerande vörten till den högre temperatur som lakvattnet får. 
 
 Systemet
 --------
@@ -14,8 +16,9 @@ Systemet bygger på en så kallad trekärls-metod där man har separata kärl f�
 
 Systemet är utformat för att använda de flyttbara stålbänkar vi redan har och som induktionsplattan respektive lakvattenkärlet normalt står på. Mellan dessa placeras platt med en pump och ventiler som ör utformad för att hålla ihop bänkarna. Platta och tillhörande slangar förvaras på den vänstra väggen (mot källartrappan).
 
-Bild 1: förvaring och slangar
+![När den inte används hänger pump och slangar på väggen mot källartrappan.](img/HERMS-forvaring.png)
 
+Plattan tas loss från väggen genom att skruva loss det svarta handtaget till vänster. 3-vägs ventilen är T borrad med ryggen mot handtaget och illustrationen som är etsad på plattan visar hur ventilens handtag skall stå vid bryggning respektive lakning. Lämna den helst i helt öppet läge.
 
 Förberedelse
 ------------
@@ -33,7 +36,7 @@ Slangarna som bilden visar:
  3. Pump ut -> Värmeväxlarens nedre anslutning
  4. Värmeväxlarens övre anslutning -> Bryggkärl in
 
-![När lakning är klar och maltpipan hissad kan man enkelt rulla undan bryggverket.](img/montering_slangar.png)
+![Slangar är numrerade och kopplas enligt bilden.](img/HERMS-montering_slangar.png)
 
 Senare ska vi även sätta en slang som fördelar den inkommande vätskan jämnt över maltbädden, men det kan vi först göra efter att vi mäskat in och cirkulerat en stund.
 
@@ -45,7 +48,7 @@ Rätt monterad ligger läppen uppvikt mot kärlets vägg och förhindrar att vä
 
 Med alla delar på plats är det dags att fylla på vatten och starta uppvärmning. Om man behöver spara tid på bryggdagen kan man förbereda så här långt dagen innan.
 
-Till skillnad från RIMS och de en-kärls bryggverk vi har behöver man vid denna procedur värma allt vatten innan man mäskar in. Lakvattnet är värmebank under mäskningen och kommer därför att behöva vara så varmt vi vill köra mäskningen vid. Fyll därför upp så mycket vatten ditt recept säger för mäskning i mäskkärlet och så mycket vatten du planerar till lakning i lakvattenkärlet. Ta gärna några liter extra så att du kan laka mer om utbytet blir bra. Dock, om du planerar att stegmäska så behöver du lämna lite plats i lakvattenvärmaren för att effektivisera stegningen, mer om det under tips nedan.
+Till skillnad från RIMS och de en-kärls bryggverk vi har behöver man med HERMS värma allt vatten innan man mäskar in. Lakvattnet är värmebank under mäskningen och ska därför ha exakt den temperatur man vill ha efter inmäskningen är klar. Fyll därför upp så mycket vatten ditt recept säger för mäskning i mäskkärlet och så mycket vatten du planerar till lakning i lakvattenkärlet. Ta gärna några liter extra så att du kan laka mer om utbytet blir bra. Dock, om du planerar att stegmäska så behöver du istället lämna lite plats i lakvattenvärmaren för att effektivisera stegningen, mer om det under tips nedan.
 
 Samtidigt som lakvattenvärmaren arbetar med lakvattnet kan man använda en doppvärmare för att värma vattnet i mäskkärlet. Det behöver man hålla lite koll på eftersom det inte har någon termostat.
 
@@ -60,9 +63,9 @@ Själva inmäskningen är i regel enklare än i bryggverken eftersom det är min
 
 När malten är blötlagd är det dags att starta cirkulationen. Det finns en slang som är tillpassad för att placeras i kärlet och som syftar till att fördela inkommande vätska jämnt över bädden. Det är dock bra att cirkulera vörten någon minut eller två utan den eftersom den första vörten kan innehålla partiklar som sätter igen de små hålen i slangen.
 
-Själva slangen är tillskuren så att den ska kunna klämmas upp mot väggen och i bästa fall ligga i ytan så jämnt som man kan få till den. Den har små hål som ska riktas inåt och lite uppåt för att flödet inte ska skapa kanaler i maltbädden.
+Slangen är tillskuren så att den ska kunna klämmas upp mot väggen och i bästa fall ligga i ytan så jämnt som man kan få till den. Den har små hål som ska riktas inåt och lite uppåt för att flödet inte ska skapa kanaler i maltbädden.
 
-När man sedan startar cirkulationen är det viktigt att hitta ett lagom flöde. Flödet regleras med den ventil som sitter på pumpens utlopp. Det ska inte stänka utan det räcker med att det rör sig i ytan. Cirkulerar man för mycket så hinner inte vörten ner genom maltbädden. Då skapas ett undertryck som kommer att trycka ihop maltbädden och till sist stoppa cirkulationen helt. Det är lätt att inte tänka på det men en pump monterad i systemet blir väldigt stark.
+När man startar cirkulationen är det viktigt att hitta ett lagom flöde. Pumpen är mycket starkare än den behöver för detta ändamål så man behöver reglera ner flödet om det inte ska stänka vört åt alla håll. Flödet regleras med den ventil som sitter på pumpens utlopp. Det ska inte stänka utan det räcker med att det rör sig i ytan. Cirkulerar man för mycket så hinner inte vörten ner genom maltbädden. Då skapas ett undertryck som kommer att trycka ihop maltbädden och till sist stoppa cirkulationen helt. Det är lätt att inte tänka på det men på grund av relationen mellan kärlets storlek och utloppets diameter så blir en pump mycket stark.
 
 På det stora mäsk kärlet finns två nivå-rör som är till för att man ska kunna avgöra hur cirkulationen fungerar. De ansluter till bryggkärlet på var sin sida om silplåten. Man kan därför se tryck-skillnaden i den kammare där pumpen suger. Idealt skall man inte ha mer än någon decimeter i skillnad på nivån mellan de två rören.
 
@@ -76,16 +79,13 @@ När det är dags att laka är konstruktionen gjort så att man kan växla över
 
 När man fyller på med lakvatten måste man givetvis även tappa av vört till sitt kok-kärl. Placera det på en vagn och ställ framför bryggkärlet.
 
-Det kan bli kaos i det här momentet men gör man allt i rätt ordning ska det inte behöva bli något spill.
-1. Stäng av pumpen för att bryta cirkulationen
-2. Vrid om tre-vägsventilen från bryggning till lakning (hantaget till höger, mot möskkärlet)
-3. Stäng den avtappningsventilen på brygg-kärlet
-4. Koppla loss vörtslangen (2) vid pumpen (håll en skål under för den deciliter som kan rinna ur)
-5. Lägg ner vörtslangen i kok-kärlet och öppna bryggärlets ventil så att det rinner lagom
-6. Starta pumpen och verifiera att det kommer vatten in i toppen på mäsken
-7. Reglera flödet på de två ventilerna så att nivån ligger still
+Det kan bli kaos i det här momentet men gör man allt i rätt ordning ska det inte behöva bli så mycket spill. Om man inte tänker sig för blir det lätt mycket att torka efteråt :-)
 
-Man behöver hålla lite koll under lakningen för att hålla rätt nivå. Idealt ska man ha några centimeter vätska ovanpå vörten men inte mer. Därigenom får man en så effektiv tvättning av malten som möjligt.
+![Övergång från mäskning till lakning på lättast sätt.](img/HERMS-maskning_till_lakning.png)
+
+Man behöver hålla lite koll under lakningen för att hålla rätt nivå. Idealt ska man ha några centimeter vätska ovanpå vörten men inte mer. Därigenom får man en så effektiv tvättning av malten som möjligt. En automatisk nivåreglering för detta moment finns i projekt-kön-
+
+Genom att man kör lakvattnet genom pump och värmeväxlare får man automatiskt en ordentlig genomsköljning av det som haft kontakt med vörten. Det innebär inte att det därmed är diskat. Man måste fortfarande cirkulera varm PBW och sedan sköljvatten för att inte nästa bryggare ska få ta del av din bryggning. Dock är det lättare nedsmutsat än de integrerade bryggverken blir. Mer om detta under "rengöring".
 
 Kom ihåg att slå av elementen i lakvattenvärmaren en stund innan vattnet tar slut, annars riskerar man att bränna sönder elementen.
 
@@ -104,7 +104,7 @@ Till att börja med tömmer man eventuella rester av lakvätska ur mäskkärlet.
 
 Mot slutet kommer det alltid att bli lite malt kvar som man får skölja ur med lite vatten ur slang. Avtappningen ur dessa kärl är förhållandevis smal. Det är därför inte enkelt att spola ur maltrester med vatten eftersom det blir stopp i utloppet. I så fall får man spola baklänges från genom att trycka vatten från ventilen och in i kärlet. Ett alternativ är att torka ur de fasta maltrester med en trasa.
 
-När brygg-kärlet är rent från synliga malterester brukar jag låta det stå inkopplat och vänta till senare. Kylningen kommer att ge oss gott om varmvatten att ha till diskning och sköljning. Jag brukar således samla det första sköljvattnet ner i mäskkärlet och där blanda 10 liter vatten med ett mått PBW diskmedel och sedan cirkulera det genom pump och värmeväxlare för att diska igenom dem.
+När brygg-kärlet är rent från synliga maltrester brukar jag låta det stå inkopplat och vänta till senare. Kylningen kommer att ge oss gott om varmvatten att ha till diskning och sköljning. Jag brukar således samla det första sköljvattnet ner i mäskkärlet och där blanda 10 liter vatten med ett mått PBW diskmedel och sedan cirkulera det genom pump och värmeväxlare för att diska igenom dem.
 
 Nästa del av kylvattnet samlar jag i lakvattenvärmaren för att ha som sköljvatten. På så sätt tar jag till vara både på vattnet och värmen från kylningen. Så när kok-kärlet är tömt och grovt rengjort tappar jag över allt diskvatten där och växlar pumpen så att den tar sköljvatten från lakvattenvärmaren genom pump och värmeväxlare.
 
