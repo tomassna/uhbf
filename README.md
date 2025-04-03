@@ -29,10 +29,11 @@ Vi har två passiva mäskkärl från SS Brewtech. Det är rostfria isolerade kä
 
 ### Kraftwerk
 
+KraftWerk är vårt största bryggverk. Det har en kapacitet på upp dill 200 liter.
 
 ## Annan utrustning
 
-### Digiboil
+### [Digiboil](https://github.com/tomassna/uhbf/blob/main/dokumentation/manualer/digiboil/manualDigiBoil.md)
 
 ### Doppvärmre
 
